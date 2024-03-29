@@ -1,13 +1,13 @@
 {
-  "name": "✨سورس الساحر",
+  "name": "✨سورس فينوس",
   "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/fe27fda877597527c2401.jpg",
+  "logo": "https://telegra.ph/file/e7eb1e9e6a1478868796d.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/jepthoniq/lMl10l/",
+  "repository": "https://github.com/Qrh9/lMl10l/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -66,7 +66,7 @@
   },{
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
-    "url": "https://github.com/jepthoniq/heroku-buildpack-ffmpeg-latest"
+    "url": "https://github.com/Qrh9/heroku-buildpack-ffmpeg-latest"
   },{
     "url": "heroku/python"
   }]
